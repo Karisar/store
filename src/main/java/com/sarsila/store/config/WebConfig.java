@@ -1,4 +1,4 @@
-package com.sarsila.store;
+package com.sarsila.store.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
